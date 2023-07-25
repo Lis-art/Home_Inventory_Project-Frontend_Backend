@@ -1,4 +1,4 @@
-# Hausinventar_Projekt Fullstack
+# Home_Inventory_Project Fullstack
 
 This project is an application where inventory items are stored in a database according to different categories. Entries can be displayed in an overview and new ones can be added and edited.
 
